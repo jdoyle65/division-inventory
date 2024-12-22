@@ -1,0 +1,20 @@
+{
+	"version": "7",
+	"dialect": "sqlite",
+	"entries": [
+		{
+			"idx": 0,
+			"version": "6",
+			"when": 1734878144612,
+			"tag": "0000_old_kronos",
+			"breakpoints": true
+		},
+		{
+			"idx": 1,
+			"version": "6",
+			"when": 1734879850167,
+			"tag": "0001_seed-gear",
+			"breakpoints": true
+		}
+	]
+}
